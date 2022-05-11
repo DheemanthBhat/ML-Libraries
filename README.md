@@ -16,10 +16,12 @@ This repo contains Jupyter notebooks to understand above four libraries in the o
 * Folder: _3 Matplotlib_  
   Ref: YouTube video: [Matplotlib Tutorials][5] by [Corey Schafer][4]
 * Folder: _4 Seaborn_  
-  Ref:
+  Ref: YouTube video: [Seaborn Tutorial 2021][6] by [Derek Banas][7]
 
 [1]: https://youtu.be/QUT1VHiLmmI
 [2]: https://www.freecodecamp.org/
 [3]: https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
 [4]: https://coreyms.com/
 [5]: https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+[6]: https://youtu.be/6GUZXDef2U0
+[7]: https://www.youtube.com/c/derekbanas
