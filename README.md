@@ -1,6 +1,6 @@
-# ML-Notebooks
+# ML-Libraries
 
-Four most important libraries used in ML:
+Four most important libraries used in Machine Learning:
 
 1. [Numpy](https://numpy.org/)
 2. [Pandas](https://pandas.pydata.org/)
